@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Còn chờ gì nữa mà không inbox cho tớ đi nào hehe :))))",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/profile.php?id=100048952936156';
+                      window.location ='https://www.facebook.com/profile.php?id=100048952936156';
                   }
             })
         }
