@@ -114,7 +114,7 @@ $('#yes').click(function() {
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
         cancelButtonColor: '#f6cd61',
-        confirmButtonText: 'Gửi cho em <3'
+        confirmButtonText: 'Gửi cho tớ <3'
     }).then((result) => {
         if (result.value) {
             Swal.fire({
