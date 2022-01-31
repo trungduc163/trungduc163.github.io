@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Còn chờ gì nữa mà không inbox cho tớ đi nào hehe :))))",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                      window.location ='https://www.facebook.com/kzendo.8';
+                      window.location ='https://www.facebook.com/kzendo.8/';
                   }
             })
         }
